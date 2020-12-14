@@ -31,4 +31,4 @@ Run flask server using [flask_app.py](flask_app.py)
 
 - Kaggle: https://www.kaggle.com/harshdaga/data-mining-term-project/
 - WebApp: http://harshdaga.pythonanywhere.com/
-- Demo Video: TBD
+- Demo Video: https://youtu.be/IZKn_bieSfY
